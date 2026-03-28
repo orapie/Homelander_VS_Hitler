@@ -1,6 +1,6 @@
-# Homelander vs. The Fuhrer Face (2D 横版射击游戏)
+# Homelander vs Hitler (2D 横版射击游戏)
 
-这是一个基于 Phaser 3 构建的模块化 2D 横版射击游戏。玩家将扮演“祖国人 (Homelander)”，在充满敌军和障碍的随机关卡中推进，并最终在竞技场挑战拥有动态表情的巨大 Boss。
+这是一个基于 Phaser 3 构建的模块化 2D 横版射击游戏。玩家将扮演“祖国人 (Homelander)”，在充满敌军和障碍的随机关卡中推进，并最终在竞技场挑战邪恶的强大的 Hitler。
 
 ## 🚀 核心功能
 
